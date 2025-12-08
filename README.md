@@ -6,6 +6,7 @@ Note: I take no responsiblity for any content listed here. Please use at your ow
 ## Collections
 * [50+ GBs of TS1 CC](https://archive.org/details/cto-gifts-prizes-amp-other-member-creations)
 * [The Sims 1 "25 Years Definitive Edition" Curated Mods & Custom Content](https://archive.org/details/lees-play-sims-1-curated-mods-cc) (also available at [SimfileShare](https://simfileshare.net/folder/222397/) Demo of items can be viewed on Youtube [https://www.youtube.com/watch?v=hdhqKMGOE2M](https://www.youtube.com/watch?v=hdhqKMGOE2M))
+* [The BEST Sims 1 Custom Content & Gameplay Mods that COMPLETELY Modernise the game!](https://archive.org/details/lees-play-sims-1-curated-mods-cc) (Multi-part download available [here](https://simfileshare.net/folder/222397/)) Original Youtube video demoing the objects can be seen [here](https://www.youtube.com/watch?v=hdhqKMGOE2M&t=1s)
 
 
 ## Objects
