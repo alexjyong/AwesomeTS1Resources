@@ -9,6 +9,9 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 * [The BEST Sims 1 Custom Content & Gameplay Mods that COMPLETELY Modernise the game!](https://archive.org/details/lees-play-sims-1-curated-mods-cc) (Multi-part download available [here](https://simfileshare.net/folder/222397/)) Original Youtube video demoing the objects can be seen [here](https://www.youtube.com/watch?v=hdhqKMGOE2M&t=1s)
 * [Lees Play: Sims 1 Custom Content and Mods June 2024 Release 1](https://simfileshare.net/folder/218386/) (complete collection available at [archive.org](https://archive.org/details/lees-play-sims-1-curated-mods-cc)) 
 * [TSO Objects for Sims 1](https://archive.org/details/whitmore40022)
+* [Simlogical](https://www.simlogical.com/sl/downloadpages/downloads.htm) Visitor teleporters, objects to get rid of unwanted NPCs from lots, apartment system, school system, and more!
+* [Corylea Sims 1 mods](http://corylea.com/Sims1ModsByCorylea.html) Hacked skill objects, new careers, and no relationship decay, no needs decay and such.
+* [Japanese themed objects](http://gyoikosakura.jpn.org/main.html) Website is largely in Japanese, but there is a green tea machine, and objects for an at home food businesss.
 
 
 ## Objects
