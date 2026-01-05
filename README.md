@@ -28,6 +28,6 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 
 * [TS1 Mod loader](https://github.com/Acanixz/TS1-modloader) GUI solution for managing custom content. Currently a WIP.
 * [Simitone: Alternate Frontend for The Sims 1](https://github.com/riperiperi/Simitone). Has new features such as more detailed lighting, the ability to play in 3D, and more!
-  - [Forked version of Simitone](https://github.com/alexjyong/Simitone?tab=readme-ov-file#how-to-install) that has some unreleased (at the time of writing) updates in the main repo, as well as a couple of bug fixes and a install and build guide. **Disclaimer: I (Alex) am the maintainer of this fork**]
+  - [Forked version of Simitone](https://github.com/alexjyong/Simitone?tab=readme-ov-file#how-to-install) that has some unreleased (at the time of writing) updates in the main repo, as well as a couple of bug fixes and a install and build guide. **Disclaimer: I (Alex) am the maintainer of this fork**
 * [Kids Can Cook mod](https://modthesims.info/showthread.php?t=689805)
 * [100 Day Bonus Messages for All Languages](https://simblr.cc/ts1/mod/5860-100th-day-bonus-for-all-languages.html)
