@@ -3,6 +3,8 @@ List of cool content for The Sims 1!
 
 Note: I take no responsiblity for any content listed here. **Please use at your own risk!** Back up any game data and what not before modiyfing your game!
 
+**Open a PR or an issue if you have something to add to this list!**
+
 ## Collections
 * [50+ GBs of TS1 CC](https://archive.org/details/cto-gifts-prizes-amp-other-member-creations)
 * [The Sims 1 "25 Years Definitive Edition" Curated Mods & Custom Content](https://archive.org/details/lees-play-sims-1-curated-mods-cc) (also available at [SimfileShare](https://simfileshare.net/folder/222397/) Demo of items can be viewed on Youtube [https://www.youtube.com/watch?v=hdhqKMGOE2M](https://www.youtube.com/watch?v=hdhqKMGOE2M))
