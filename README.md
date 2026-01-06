@@ -14,6 +14,7 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 * [Simlogical](https://www.simlogical.com/sl/downloadpages/downloads.htm) Visitor teleporters, objects to get rid of unwanted NPCs from lots, apartment system, school system, and more!
 * [Corylea Sims 1 mods](http://corylea.com/Sims1ModsByCorylea.html) Hacked skill objects, new careers, and no relationship decay, no needs decay and such.
 * [Japanese themed objects](http://gyoikosakura.jpn.org/main.html) Website is largely in Japanese, but there is a green tea machine, and objects for an at home food businesss.
+* [Guabaman58](https://www.geocities.ws/guabaman58/files2.html) Gubaman's Page. A lot of hacked objects and game mods such as anywhere hotel desks, allowing children to go downtown and such.
 
 
 ## Objects
