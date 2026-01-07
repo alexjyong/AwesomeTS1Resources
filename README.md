@@ -16,7 +16,6 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 * [Japanese themed objects](http://gyoikosakura.jpn.org/main.html) Website is largely in Japanese, but there is a green tea machine, and objects for an at home food businesss.
 * [Guabaman58](https://www.geocities.ws/guabaman58/files2.html) Gubaman's Page. A lot of hacked objects and game mods such as anywhere hotel desks, allowing children to go downtown and such.
 
-
 ## Objects
 
 * [Domcal](https://white.leadpipecollection.net/sims1.php?g=2#dd_domcal): Calendar that will add the day of the month to your Sims and give them a day off on the 6th and 7th day of the week.
@@ -24,6 +23,13 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 * [Less decay motive plant](https://modthesims.info/showthread.php?t=663646): slows down motive decay in TS1, which is notoriously fast compared to later games.
 * [iPhone mod](https://simfileshare.net/folder/218386/): Part of the "Lees Play: Sims 1 Custom Content and Mods June 2024 Release 1" Collection. Listed here for easy finding.
 * [McDonalds food kiosk](https://archive.org/details/mcdonaldsfoodkiosk)
+
+## Custom Neighborhood Maps:
+These allow you to have custom appearances for your neighborhood in the game. Instructions on how to install in the downloads
+
+* [Secret Society of Woobsha and Aunt B Pirate Map](http://www.woobsha.com/theme-pirate-lotindex.html)
+* Aunt B Neighborhood Maps: Photos of them [here](http://simscave.mustbedestroyed.org/index.php?PHPSESSID=4eff9eaa6c8d2d3f83252d71811f3dbc&topic=35924.0) and a link to download them can be found [here](https://simfileshare.net/folder/85225/)
+* [Steampunk themed neighborhood map](https://taure.unixdaemons.com/stscreen.html)
 
 ## Skins
 
