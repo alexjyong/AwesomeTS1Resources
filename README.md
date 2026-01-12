@@ -8,6 +8,7 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 ## Collections
 * [50+ GBs of TS1 CC](https://archive.org/details/cto-gifts-prizes-amp-other-member-creations)
 * [The Sims 1 "25 Years Definitive Edition" Curated Mods & Custom Content](https://archive.org/details/lees-play-sims-1-curated-mods-cc) (also available at [SimfileShare](https://simfileshare.net/folder/222397/) Demo of items can be viewed on Youtube [https://www.youtube.com/watch?v=hdhqKMGOE2M](https://www.youtube.com/watch?v=hdhqKMGOE2M))
+* [TS1 Beta content](https://modthesims.info/showthread.php?t=686236): Restored beta content such as the original TV, computer, chairs, etc.
 * [The BEST Sims 1 Custom Content & Gameplay Mods that COMPLETELY Modernise the game!](https://archive.org/details/lees-play-sims-1-curated-mods-cc) (Multi-part download available [here](https://simfileshare.net/folder/222397/)) Original Youtube video demoing the objects can be seen [here](https://www.youtube.com/watch?v=hdhqKMGOE2M&t=1s)
 * [Lees Play: Sims 1 Custom Content and Mods June 2024 Release 1](https://simfileshare.net/folder/218386/) (complete collection available at [archive.org](https://archive.org/details/lees-play-sims-1-curated-mods-cc)) 
 * [TSO Objects for Sims 1](https://archive.org/details/whitmore40022)
