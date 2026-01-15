@@ -5,7 +5,7 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 
 **Open a PR or an issue if you have something to add to this list!**
 
-## Collections
+## Collections and websites
 * [50+ GBs of TS1 CC](https://archive.org/details/cto-gifts-prizes-amp-other-member-creations)
 * [The Sims 1 "25 Years Definitive Edition" Curated Mods & Custom Content](https://archive.org/details/lees-play-sims-1-curated-mods-cc) (also available at [SimfileShare](https://simfileshare.net/folder/222397/) Demo of items can be viewed on Youtube [https://www.youtube.com/watch?v=hdhqKMGOE2M](https://www.youtube.com/watch?v=hdhqKMGOE2M))
 * [TS1 Beta content](https://modthesims.info/showthread.php?t=686236): Restored beta content such as the original TV, computer, chairs, etc.
@@ -16,6 +16,7 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 * [Corylea Sims 1 mods](http://corylea.com/Sims1ModsByCorylea.html) Hacked skill objects, new careers, and no relationship decay, no needs decay and such.
 * [Japanese themed objects](http://gyoikosakura.jpn.org/main.html) Website is largely in Japanese, but there is a green tea machine, and objects for an at home food businesss.
 * [Guabaman58](https://www.geocities.ws/guabaman58/files2.html) Gubaman's Page. A lot of hacked objects and game mods such as anywhere hotel desks, allowing children to go downtown and such.
+* [Simblr](https://simblr.cc/home/): Website dedicated to perserving old TS1 content
 
 ## Objects
 
