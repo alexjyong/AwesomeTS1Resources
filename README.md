@@ -24,6 +24,7 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 * [Less decay motive plant](https://modthesims.info/showthread.php?t=663646): slows down motive decay in TS1, which is notoriously fast compared to later games.
 * [iPhone mod](https://simfileshare.net/folder/218386/): Part of the "Lees Play: Sims 1 Custom Content and Mods June 2024 Release 1" Collection. Listed here for easy finding.
 * [McDonalds food kiosk](https://archive.org/details/mcdonaldsfoodkiosk)
+* [Soccer Ball](https://simblr.cc/ts1/mod/3516-soccer-ball-20.html): Playable soccer ball based off of TSO object
 
 ## Custom Neighborhood Maps:
 These allow you to have custom appearances for your neighborhood in the game. Instructions on how to install in the downloads
