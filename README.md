@@ -6,6 +6,8 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 **Open a PR or an issue if you have something to add to this list!**
 
 ## Collections and websites
+* [Killer Sims Archives](https://simfileshare.net/folder/191807/) (Note this is not a complete archive)
+** Other Killer Sims files can be found [here](https://simfileshare.net/folder/259826/)
 * [50+ GBs of TS1 CC](https://archive.org/details/cto-gifts-prizes-amp-other-member-creations)
 * [The Sims 1 "25 Years Definitive Edition" Curated Mods & Custom Content](https://archive.org/details/lees-play-sims-1-curated-mods-cc) (also available at [SimfileShare](https://simfileshare.net/folder/222397/) Demo of items can be viewed on Youtube [https://www.youtube.com/watch?v=hdhqKMGOE2M](https://www.youtube.com/watch?v=hdhqKMGOE2M))
 * [TS1 Beta content](https://modthesims.info/showthread.php?t=686236): Restored beta content such as the original TV, computer, chairs, etc.
@@ -21,6 +23,7 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 
 ## Objects
 
+* [Elevator](https://simfileshare.net/folder/259862/): Working Elevator
 * [Domcal](https://white.leadpipecollection.net/sims1.php?g=2#dd_domcal): Calendar that will add the day of the month to your Sims and give them a day off on the 6th and 7th day of the week.
 * [Hiddens objects unlocked](https://simblr.cc/ts1/mod/4848-hidden-objects-unlocked.html): allows players to purchase objects such as vacation awards, magic items, etc
 * [Less decay motive plant](https://modthesims.info/showthread.php?t=663646): slows down motive decay in TS1, which is notoriously fast compared to later games.
