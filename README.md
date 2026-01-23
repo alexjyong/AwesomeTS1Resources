@@ -23,6 +23,7 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 
 ## Objects
 
+* [Listen to TV](https://modthesims.info/showthread.php?t=672385) Modded TVs that increase fun just by being in the room; (i.e. your sim is just listening to them)
 * [Elevator](https://simfileshare.net/folder/259862/): Working Elevator
 * [Domcal](https://white.leadpipecollection.net/sims1.php?g=2#dd_domcal): Calendar that will add the day of the month to your Sims and give them a day off on the 6th and 7th day of the week.
 * [Hiddens objects unlocked](https://simblr.cc/ts1/mod/4848-hidden-objects-unlocked.html): allows players to purchase objects such as vacation awards, magic items, etc
@@ -45,6 +46,7 @@ These allow you to have custom appearances for your neighborhood in the game. In
 
 ## Mods and other cool things
 
+* [More interactions with pets](https://modthesims.info/showthread.php?t=673150) - adds in more pet treats, the ability to take a pet on a walk, etc.
 * [TS1 Mod loader](https://github.com/Acanixz/TS1-modloader) GUI solution for managing custom content. Currently a WIP.
 * [Simitone: Alternate Frontend for The Sims 1](https://github.com/riperiperi/Simitone). Has new features such as more detailed lighting, the ability to play in 3D, and more!
   - [Forked version of Simitone](https://github.com/alexjyong/Simitone?tab=readme-ov-file#how-to-install) that has some unreleased (at the time of writing) updates in the main repo, as well as a couple of bug fixes and a install and build guide. **Disclaimer: I (Alex) am the maintainer of this fork**
