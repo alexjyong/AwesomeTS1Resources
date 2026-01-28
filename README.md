@@ -21,6 +21,7 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 * [Simblr](https://simblr.cc/home/): Website dedicated to perserving old TS1 content
 * [Colorized Sims archive](http://simscave.mustbedestroyed.org/index.php?board=320.0): post with content from colorized sims wesbite (now defunct). Features playground objects, new restaurants, a bowling alley, and other cool stuff! Also hosted at SimFile Share: http://simfileshare.net/folder/91599/ and http://simfileshare.net/folder/91602/
 * [Candle Light Sims](http://candlelight.woobsha.com/)
+* [Simania](http://simania.nl/simania/ssp/ssp.htm): Fan page that has guides on object modding and such.
 
 ## Objects
 
