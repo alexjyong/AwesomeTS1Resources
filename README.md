@@ -6,6 +6,7 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 **Open a PR or an issue if you have something to add to this list!**
 
 ## Collections and websites
+* [Sneaky Sims](https://sneakysims.net/): Website dedicated to maintaining the legacy of the original sims, as well as hosting some new modding tools and links to other cool Sims resources.
 * [Killer Sims Archives](https://simfileshare.net/folder/191807/) (Note this is not a complete archive)
 ** Other Killer Sims files can be found [here](https://simfileshare.net/folder/259826/)
 * [50+ GBs of TS1 CC](https://archive.org/details/cto-gifts-prizes-amp-other-member-creations)
@@ -51,6 +52,7 @@ These allow you to have custom appearances for your neighborhood in the game. In
 ## Mods and other cool things
 
 * [More interactions with pets](https://modthesims.info/showthread.php?t=673150) - adds in more pet treats, the ability to take a pet on a walk, etc.
+* [SneakyLib](https://github.com/SneakySims/SneakyLib) -  The Sims 1 file format parser (IFF, FAR, etc) written in Kotlin 
 * [TS1 Mod loader](https://github.com/Acanixz/TS1-modloader) GUI solution for managing custom content. Currently a WIP.
 * [Simitone: Alternate Frontend for The Sims 1](https://github.com/riperiperi/Simitone). Has new features such as more detailed lighting, the ability to play in 3D, and more!
   - [Forked version of Simitone](https://github.com/alexjyong/Simitone?tab=readme-ov-file#how-to-install) that has some unreleased (at the time of writing) updates in the main repo, as well as a couple of bug fixes and a install and build guide. **Disclaimer: I (Alex) am the maintainer of this fork**
