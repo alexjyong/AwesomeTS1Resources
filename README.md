@@ -24,6 +24,7 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 * [Candle Light Sims](http://candlelight.woobsha.com/)
 * [Simania](http://simania.nl/simania/ssp/ssp.htm): Fan page that has guides on object modding and such.
 * [White Lead Pipe Collection](https://white.leadpipecollection.net/sims1.php)
+* [Cheap Frills (archived site)](https://web.archive.org/web/20050124092738/http://www.cheapfrills.org/): Can also be found on SimFile share [here](https://simfileshare.net/folder/144514/). Has gym objects, execersie tiles, trampolines, and more
 
 ## Objects
 
@@ -59,3 +60,4 @@ These allow you to have custom appearances for your neighborhood in the game. In
 * [Kids Can Cook mod](https://modthesims.info/showthread.php?t=689805)
 * [100 Day Bonus Messages for All Languages](https://simblr.cc/ts1/mod/5860-100th-day-bonus-for-all-languages.html)
 * [Technical documentation for The Sims 1](https://github.com/DnfJeff/TheSimsOpenTechDoc/tree/main)
+* [SimObliterator Suite](https://github.com/DnfJeff/SimObliterator_Suite)
