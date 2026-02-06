@@ -6,6 +6,7 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 **Open a PR or an issue if you have something to add to this list!**
 
 ## Collections and websites
+* [SimSlice](https://simslice.com/): Home to Slice City 2.0, Zombie Sims and other cool objects.
 * [Sneaky Sims](https://sneakysims.net/): Website dedicated to maintaining the legacy of the original sims, as well as hosting some new modding tools and links to other cool Sims resources.
 * [Killer Sims Archives](https://simfileshare.net/folder/191807/) (Note this is not a complete archive)
 ** Other Killer Sims files can be found [here](https://simfileshare.net/folder/259826/)
