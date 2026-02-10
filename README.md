@@ -63,3 +63,4 @@ These allow you to have custom appearances for your neighborhood in the game. In
 * [100 Day Bonus Messages for All Languages](https://simblr.cc/ts1/mod/5860-100th-day-bonus-for-all-languages.html)
 * [Technical documentation for The Sims 1](https://github.com/DnfJeff/TheSimsOpenTechDoc/tree/main)
 * [SimObliterator Suite](https://github.com/DnfJeff/SimObliterator_Suite)
+* [Custom Animations Guide](http://www.awesomeexpression.com/custom-animation-tutorial---part-1.html)
