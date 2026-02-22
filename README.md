@@ -39,6 +39,7 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 * [McDonalds food kiosk](https://archive.org/details/mcdonaldsfoodkiosk)
 * [Soccer Ball](https://simblr.cc/ts1/mod/3516-soccer-ball-20.html): Playable soccer ball based off of TSO object
 * [Puberty Blows](https://modthesims.info/t/610825): birthday cake that allows kids to age. (Requires Making Magic or Complete collection)
+* [Vacation Lodging Swedish Cottage](https://www.thesimsresource.com/downloads/76145): Clone of the tent from Vacation to look like a tiny cottage. 
 
 ## Custom Neighborhood Maps:
 These allow you to have custom appearances for your neighborhood in the game. Instructions on how to install in the downloads
