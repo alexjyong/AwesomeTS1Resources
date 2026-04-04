@@ -62,6 +62,8 @@ These allow you to have custom appearances for your neighborhood in the game. In
 * [More interactions with pets](https://modthesims.info/showthread.php?t=673150) - adds in more pet treats, the ability to take a pet on a walk, etc.
 * [SneakyLib](https://github.com/SneakySims/SneakyLib) -  The Sims 1 file format parser (IFF, FAR, etc) written in Kotlin
 * [TSC Blender IO](https://github.com/mixiate/tsc-blender-io) - Blender add on that lets you extract models from the various Sims games into Blender.
+* [TS1-compiler](https://github.com/mixiate/ts1-compiler) - Makes sprites from TS1-render and compiles objects for TS1
+* [TS1-renderer](https://github.com/mixiate/ts1-renderer) - an add-on for Blender which allows you to render objects for The Sims 1.
 * [TS1 Mod loader](https://github.com/Acanixz/TS1-modloader) GUI solution for managing custom content. Currently a WIP.
 * [Simitone: Alternate Frontend for The Sims 1](https://github.com/riperiperi/Simitone). Has new features such as more detailed lighting, the ability to play in 3D, and more!
   - [Forked version of Simitone](https://github.com/alexjyong/Simitone?tab=readme-ov-file#how-to-install) that has some unreleased (at the time of writing) updates in the main repo, as well as a couple of bug fixes and a install and build guide. **Disclaimer: I (Alex) am the maintainer of this fork**
