@@ -6,6 +6,7 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 **Open a PR or an issue if you have something to add to this list!**
 
 ## Collections and websites
+* [Sims Legacy Mod Guide](https://cyndersanity.github.io/sims-legacy-mod-guide/index.html) guide on modding the original Sims game along with various resources.
 * [SimSlice](https://simslice.com/): Home to Slice City 2.0, Zombie Sims and other cool objects.
 * [Shalkin Sims](http://shaklin.chez.com): Various objects such as working weapons, bunk beds and an ice skating rink.
 * [Sneaky Sims](https://sneakysims.net/): Website dedicated to maintaining the legacy of the original sims, as well as hosting some new modding tools and links to other cool Sims resources.
