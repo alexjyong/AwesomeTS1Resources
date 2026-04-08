@@ -56,6 +56,7 @@ These allow you to have custom appearances for your neighborhood in the game. In
 
 ## Mods and other cool things
 
+* [Pet bath fix for TS1 legacy](https://www.reddit.com/r/thesims1/s/LPZbp6v1zO)
 * [The Sims Legacy Collection Modding Guide](https://cyndersanity.github.io/sims-legacy-mod-guide/)
 * SimlifeCycle: Allows teenagers in TS1. https://web.archive.org/web/20040403200416/http://simlifecycle.com:80/download.html
 * Vampire Mod: Displayed in this Youtube video [here](https://www.youtube.com/watch?v=DNV1X57O7Q8). I'm not sure where the mod originally came from, but the files are hosted in this google drive [here](https://drive.google.com/drive/folders/1IuoHEn6a6y3mOSIiWJcOZfNztOmNCl5p)
