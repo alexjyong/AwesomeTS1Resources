@@ -6,45 +6,52 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 **Open a PR or an issue if you have something to add to this list!**
 
 ## Collections and websites
-* [Sims Legacy Mod Guide](https://cyndersanity.github.io/sims-legacy-mod-guide/index.html) guide on modding the original Sims game along with various resources.
-* [SimSlice](https://simslice.com/): Home to Slice City 2.0, Zombie Sims and other cool objects.
-* [Shalkin Sims](http://shaklin.chez.com): Various objects such as working weapons, bunk beds and an ice skating rink.
-* [Sneaky Sims](https://sneakysims.net/): Website dedicated to maintaining the legacy of the original sims, as well as hosting some new modding tools and links to other cool Sims resources.
-* [Killer Sims Archives](https://simfileshare.net/folder/191807/) (Note this is not a complete archive)
-** Other Killer Sims files can be found [here](https://simfileshare.net/folder/259826/)
-* [50+ GBs of TS1 CC](https://archive.org/details/cto-gifts-prizes-amp-other-member-creations)
-* [The Sims 1 "25 Years Definitive Edition" Curated Mods & Custom Content](https://archive.org/details/lees-play-sims-1-curated-mods-cc) (also available at [SimfileShare](https://simfileshare.net/folder/222397/) Demo of items can be viewed on Youtube [https://www.youtube.com/watch?v=hdhqKMGOE2M](https://www.youtube.com/watch?v=hdhqKMGOE2M))
-* [TS1 Beta content](https://modthesims.info/showthread.php?t=686236): Restored beta content such as the original TV, computer, chairs, etc.
-* [The BEST Sims 1 Custom Content & Gameplay Mods that COMPLETELY Modernise the game!](https://archive.org/details/lees-play-sims-1-curated-mods-cc) (Multi-part download available [here](https://simfileshare.net/folder/222397/)) Original Youtube video demoing the objects can be seen [here](https://www.youtube.com/watch?v=hdhqKMGOE2M&t=1s)
-* [Lees Play: Sims 1 Custom Content and Mods June 2024 Release 1](https://simfileshare.net/folder/218386/) (complete collection available at [archive.org](https://archive.org/details/lees-play-sims-1-curated-mods-cc)) 
-* [TSO Objects for Sims 1](https://archive.org/details/whitmore40022)
-* [Simlogical](https://www.simlogical.com/sl/downloadpages/downloads.htm) Visitor teleporters, objects to get rid of unwanted NPCs from lots, apartment system, school system, and more!
-* [Corylea Sims 1 mods](http://corylea.com/Sims1ModsByCorylea.html) Hacked skill objects, new careers, and no relationship decay, no needs decay and such.
-* [Japanese themed objects](http://gyoikosakura.jpn.org/main.html) Website is largely in Japanese, but there is a green tea machine, and objects for an at home food businesss.
-* [Guabaman58](https://www.geocities.ws/guabaman58/files2.html) Gubaman's Page. A lot of hacked objects and game mods such as anywhere hotel desks, allowing children to go downtown and such.
-* [Simblr](https://simblr.cc/home/): Website dedicated to perserving old TS1 content
-* [Colorized Sims archive](http://simscave.mustbedestroyed.org/index.php?board=320.0): post with content from colorized sims wesbite (now defunct). Features playground objects, new restaurants, a bowling alley, and other cool stuff! Also hosted at SimFile Share: http://simfileshare.net/folder/91599/ and http://simfileshare.net/folder/91602/
-* [Candle Light Sims](http://candlelight.woobsha.com/)
-* [Simania](http://simania.nl/simania/ssp/ssp.htm): Fan page that has guides on object modding and such.
-* [White Lead Pipe Collection](https://white.leadpipecollection.net/sims1.php)
-* [8 Deadly Sims Archive](https://simfileshare.net/folder/264361/): Archived of 8 Deadly Sims. has various objects, such as Skateboard, new stores, waterpipes, and other things!
-* [Cheap Frills (archived site)](https://web.archive.org/web/20050124092738/http://www.cheapfrills.org/): Can also be found on SimFile share [here](https://simfileshare.net/folder/144514/). Has gym objects, execersie tiles, trampolines, and more
+<details>
+  
+  * [Sims Legacy Mod Guide](https://cyndersanity.github.io/sims-legacy-mod-guide/index.html) guide on modding the original Sims game along with various resources.
+  * [SimSlice](https://simslice.com/): Home to Slice City 2.0, Zombie Sims and other cool objects.
+  * [Shalkin Sims](http://shaklin.chez.com): Various objects such as working weapons, bunk beds and an ice skating rink.
+  * [Sneaky Sims](https://sneakysims.net/): Website dedicated to maintaining the legacy of the original sims, as well as hosting some new modding tools and links to other cool Sims resources.
+  * [Killer Sims Archives](https://simfileshare.net/folder/191807/) (Note this is not a complete archive)
+  ** Other Killer Sims files can be found [here](https://simfileshare.net/folder/259826/)
+  * [50+ GBs of TS1 CC](https://archive.org/details/cto-gifts-prizes-amp-other-member-creations)
+  * [The Sims 1 "25 Years Definitive Edition" Curated Mods & Custom Content](https://archive.org/details/lees-play-sims-1-curated-mods-cc) (also available at [SimfileShare](https://simfileshare.net/folder/222397/) Demo of items can be viewed on Youtube [https://www.youtube.com/watch?v=hdhqKMGOE2M](https://www.youtube.com/watch?v=hdhqKMGOE2M))
+  * [TS1 Beta content](https://modthesims.info/showthread.php?t=686236): Restored beta content such as the original TV, computer, chairs, etc.
+  * [The BEST Sims 1 Custom Content & Gameplay Mods that COMPLETELY Modernise the game!](https://archive.org/details/lees-play-sims-1-curated-mods-cc) (Multi-part download available [here](https://simfileshare.net/folder/222397/)) Original Youtube video demoing the objects can be seen [here](https://www.youtube.com/watch?v=hdhqKMGOE2M&t=1s)
+  * [Lees Play: Sims 1 Custom Content and Mods June 2024 Release 1](https://simfileshare.net/folder/218386/) (complete collection available at [archive.org](https://archive.org/details/lees-play-sims-1-curated-mods-cc)) 
+  * [TSO Objects for Sims 1](https://archive.org/details/whitmore40022)
+  * [Simlogical](https://www.simlogical.com/sl/downloadpages/downloads.htm) Visitor teleporters, objects to get rid of unwanted NPCs from lots, apartment system, school system, and more!
+  * [Corylea Sims 1 mods](http://corylea.com/Sims1ModsByCorylea.html) Hacked skill objects, new careers, and no relationship decay, no needs decay and such.
+  * [Japanese themed objects](http://gyoikosakura.jpn.org/main.html) Website is largely in Japanese, but there is a green tea machine, and objects for an at home food businesss.
+  * [Guabaman58](https://www.geocities.ws/guabaman58/files2.html) Gubaman's Page. A lot of hacked objects and game mods such as anywhere hotel desks, allowing children to go downtown and such.
+  * [Simblr](https://simblr.cc/home/): Website dedicated to perserving old TS1 content
+  * [Colorized Sims archive](http://simscave.mustbedestroyed.org/index.php?board=320.0): post with content from colorized sims wesbite (now defunct). Features playground objects, new restaurants, a bowling alley, and other cool stuff! Also hosted at SimFile Share: http://simfileshare.net/folder/91599/ and http://simfileshare.net/folder/91602/
+  * [Candle Light Sims](http://candlelight.woobsha.com/)
+  * [Simania](http://simania.nl/simania/ssp/ssp.htm): Fan page that has guides on object modding and such.
+  * [White Lead Pipe Collection](https://white.leadpipecollection.net/sims1.php)
+  * [8 Deadly Sims Archive](https://simfileshare.net/folder/264361/): Archived of 8 Deadly Sims. has various objects, such as Skateboard, new stores, waterpipes, and other things!
+  * [Cheap Frills (archived site)](https://web.archive.org/web/20050124092738/http://www.cheapfrills.org/): Can also be found on SimFile share [here](https://simfileshare.net/folder/144514/). Has gym objects, execersie tiles, trampolines, and more!
+</details>
 
 ## Objects
 
-* [Listen to TV](https://modthesims.info/showthread.php?t=672385) Modded TVs that increase fun just by being in the room; (i.e. your sim is just listening to them)
-* [Elevator](https://simfileshare.net/folder/259862/): Working Elevator
-* [Domcal](https://white.leadpipecollection.net/sims1.php?g=2#dd_domcal): Calendar that will add the day of the month to your Sims and give them a day off on the 6th and 7th day of the week.
-* [Hiddens objects unlocked](https://simblr.cc/ts1/mod/4848-hidden-objects-unlocked.html): allows players to purchase objects such as vacation awards, magic items, etc
-* [Less decay motive plant](https://modthesims.info/showthread.php?t=663646): slows down motive decay in TS1, which is notoriously fast compared to later games.
-* [iPhone mod](https://simfileshare.net/folder/218386/): Part of the "Lees Play: Sims 1 Custom Content and Mods June 2024 Release 1" Collection. Listed here for easy finding.
-* [McDonalds food kiosk](https://archive.org/details/mcdonaldsfoodkiosk)
-* [Soccer Ball](https://simblr.cc/ts1/mod/3516-soccer-ball-20.html): Playable soccer ball based off of TSO object
-* [Puberty Blows](https://modthesims.info/t/610825): birthday cake that allows kids to age. (Requires Making Magic or Complete collection)
-* [Vacation Lodging Swedish Cottage](https://www.thesimsresource.com/downloads/76145): Clone of the tent from Vacation to look like a tiny cottage. 
+<details>
+  
+  * [Listen to TV](https://modthesims.info/showthread.php?t=672385) Modded TVs that increase fun just by being in the room; (i.e. your sim is just listening to them)
+  * [Elevator](https://simfileshare.net/folder/259862/): Working Elevator
+  * [Domcal](https://white.leadpipecollection.net/sims1.php?g=2#dd_domcal): Calendar that will add the day of the month to your Sims and give them a day off on the 6th and 7th day of the week.
+  * [Hiddens objects unlocked](https://simblr.cc/ts1/mod/4848-hidden-objects-unlocked.html): allows players to purchase objects such as vacation awards, magic items, etc
+  * [Less decay motive plant](https://modthesims.info/showthread.php?t=663646): slows down motive decay in TS1, which is notoriously fast compared to later games.
+  * [iPhone mod](https://simfileshare.net/folder/218386/): Part of the "Lees Play: Sims 1 Custom Content and Mods June 2024 Release 1" Collection. Listed here for easy finding.
+  * [McDonalds food kiosk](https://archive.org/details/mcdonaldsfoodkiosk)
+  * [Soccer Ball](https://simblr.cc/ts1/mod/3516-soccer-ball-20.html): Playable soccer ball based off of TSO object
+  * [Puberty Blows](https://modthesims.info/t/610825): birthday cake that allows kids to age. (Requires Making Magic or Complete collection)
+  * [Vacation Lodging Swedish Cottage](https://www.thesimsresource.com/downloads/76145): Clone of the tent from Vacation to look like a tiny cottage. 
+
+</details>
 
 ## Custom Neighborhood Maps:
-These allow you to have custom appearances for your neighborhood in the game. Instructions on how to install in the downloads
+These allow you to have custom appearances for your neighborhood in the game. Instructions on how to install in the links.
 
 * [Secret Society of Woobsha and Aunt B Pirate Map](http://www.woobsha.com/theme-pirate-lotindex.html)
 * Aunt B Neighborhood Maps: Photos of them [here](http://simscave.mustbedestroyed.org/index.php?PHPSESSID=4eff9eaa6c8d2d3f83252d71811f3dbc&topic=35924.0) and a link to download them can be found [here](https://simfileshare.net/folder/85225/)
@@ -57,21 +64,25 @@ These allow you to have custom appearances for your neighborhood in the game. In
 
 ## Mods and other cool things
 
-* [Pet bath fix for TS1 legacy](https://www.reddit.com/r/thesims1/s/LPZbp6v1zO)
-* [The Sims Legacy Collection Modding Guide](https://cyndersanity.github.io/sims-legacy-mod-guide/)
-* SimlifeCycle: Allows teenagers in TS1. https://web.archive.org/web/20040403200416/http://simlifecycle.com:80/download.html
-* Vampire Mod: Displayed in this Youtube video [here](https://www.youtube.com/watch?v=DNV1X57O7Q8). I'm not sure where the mod originally came from, but the files are hosted in this google drive [here](https://drive.google.com/drive/folders/1IuoHEn6a6y3mOSIiWJcOZfNztOmNCl5p)
-* [More interactions with pets](https://modthesims.info/showthread.php?t=673150) - adds in more pet treats, the ability to take a pet on a walk, etc.
-* [SneakyLib](https://github.com/SneakySims/SneakyLib) -  The Sims 1 file format parser (IFF, FAR, etc) written in Kotlin
-* [TSC Blender IO](https://github.com/mixiate/tsc-blender-io) - Blender add on that lets you extract models from the various Sims games into Blender.
-* [TS1-compiler](https://github.com/mixiate/ts1-compiler) - Makes sprites from TS1-renderer and compiles objects for TS1
-* [TS1-renderer](https://github.com/mixiate/ts1-renderer) - an add-on for Blender which allows you to render objects for The Sims 1.
-* [TS1 Mod loader](https://github.com/Acanixz/TS1-modloader) GUI solution for managing custom content. Currently a WIP.
-* [Console game files](https://simfileshare.net/folder/223470/): Not for The Sims 1 per se, but can be used with the blender plugins potentially to make content.
-* [Simitone: Alternate Frontend for The Sims 1](https://github.com/riperiperi/Simitone). Has new features such as more detailed lighting, the ability to play in 3D, and more!
-  - [Forked version of Simitone](https://github.com/alexjyong/Simitone?tab=readme-ov-file#how-to-install) that has some unreleased (at the time of writing) updates in the main repo, as well as a couple of bug fixes and a install and build guide. **Disclaimer: I (Alex) am the maintainer of this fork**
-* [Kids Can Cook mod](https://modthesims.info/showthread.php?t=689805)
-* [100 Day Bonus Messages for All Languages](https://simblr.cc/ts1/mod/5860-100th-day-bonus-for-all-languages.html)
-* [Technical documentation for The Sims 1](https://github.com/DnfJeff/TheSimsOpenTechDoc/tree/main)
-* [SimObliterator Suite](https://github.com/DnfJeff/SimObliterator_Suite)
-* [Custom Animations Guide](http://www.awesomeexpression.com/custom-animation-tutorial---part-1.html)
+<details>
+  
+  * [Pet bath fix for TS1 legacy](https://www.reddit.com/r/thesims1/s/LPZbp6v1zO)
+  * [The Sims Legacy Collection Modding Guide](https://cyndersanity.github.io/sims-legacy-mod-guide/)
+  * [SimlifeCycle](https://web.archive.org/web/20040403200416/http://simlifecycle.com:80/download.html): Allows teenagers in TS1. Works with non-legacy Sims 1. I do NOT know if it works with the Legacy version. Note that the original website is down and the archived version can be glitchy at times.
+  * Vampire Mod: Displayed in this Youtube video [here](https://www.youtube.com/watch?v=DNV1X57O7Q8). I'm not sure where the mod originally came from, but the files are hosted in this google drive [here](https://drive.google.com/drive/folders/1IuoHEn6a6y3mOSIiWJcOZfNztOmNCl5p)
+  * [More interactions with pets](https://modthesims.info/showthread.php?t=673150) - adds in more pet treats, the ability to take a pet on a walk, etc.
+  * [SneakyLib](https://github.com/SneakySims/SneakyLib) -  The Sims 1 file format parser (IFF, FAR, etc) written in Kotlin
+  * [TSC Blender IO](https://github.com/mixiate/tsc-blender-io) - Blender add on that lets you extract models from the various Sims games into Blender.
+  * [TS1-compiler](https://github.com/mixiate/ts1-compiler) - Makes sprites from TS1-renderer and compiles objects for TS1
+  * [TS1-renderer](https://github.com/mixiate/ts1-renderer) - an add-on for Blender which allows you to render objects for The Sims 1.
+  * [TS1 Mod loader](https://github.com/Acanixz/TS1-modloader) GUI solution for managing custom content. Currently a WIP.
+  * [Console game files](https://simfileshare.net/folder/223470/): Not for The Sims 1 per se, but can be used with the blender plugins potentially to make content.
+  * [Simitone: Alternate Frontend for The Sims 1](https://github.com/riperiperi/Simitone). Has new features such as more detailed lighting, the ability to play in 3D, and more!
+    - [Forked version of Simitone](https://github.com/alexjyong/Simitone?tab=readme-ov-file#how-to-install) that has some unreleased (at the time of writing) updates in the main repo, as well as a couple of bug fixes and a install and build guide. **Disclaimer: I (Alex) am the maintainer of this fork**
+  * [Kids Can Cook mod](https://modthesims.info/showthread.php?t=689805)
+  * [100 Day Bonus Messages for All Languages](https://simblr.cc/ts1/mod/5860-100th-day-bonus-for-all-languages.html)
+  * [Technical documentation for The Sims 1](https://github.com/DnfJeff/TheSimsOpenTechDoc/tree/main)
+  * [SimObliterator Suite](https://github.com/DnfJeff/SimObliterator_Suite)
+  * [Custom Animations Guide](http://www.awesomeexpression.com/custom-animation-tutorial---part-1.html)
+    
+</details>
