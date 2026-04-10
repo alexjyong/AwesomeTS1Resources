@@ -36,7 +36,9 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 ## Objects
 
 <details>
-  
+
+  * Drivable Cars:
+    * Space Cadet has cars archived [here](https://simfileshare.net/folder/264610/) and a video demoing their functionality can be seen [here](https://www.youtube.com/watch?v=t_Rih-BuGEQ) 
   * [Listen to TV](https://modthesims.info/showthread.php?t=672385) Modded TVs that increase fun just by being in the room; (i.e. your sim is just listening to them)
   * [Elevator](https://simfileshare.net/folder/259862/): Working Elevator
   * [Domcal](https://white.leadpipecollection.net/sims1.php?g=2#dd_domcal): Calendar that will add the day of the month to your Sims and give them a day off on the 6th and 7th day of the week.
