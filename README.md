@@ -8,6 +8,7 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
 ## Collections and websites
 <details>
 
+  * [Around The Sims (archived)](https://web.archive.org/web/20250610105233/https://sims1.aroundthesims3.com/objects/index.html) You can view the Creator's Tumblr blog [here](https://www.tumblr.com/aroundthesims.) which is still maintained, but mostly for later editions of series.
   * [Retro Trailer](https://nostalgiasimsthings.tumblr.com/post/178330678205/httpssimfilesharenetdownload742898) ( Sim File Share link [here](https://simfileshare.net/download/742898/) )
   * [Sims Legacy Mod Guide](https://cyndersanity.github.io/sims-legacy-mod-guide/index.html) guide on modding the original Sims game along with various resources.
   * [SimSlice](https://simslice.com/): Home to Slice City 2.0, Zombie Sims and other cool objects.
