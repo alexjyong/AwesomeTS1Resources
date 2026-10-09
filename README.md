@@ -33,6 +33,7 @@ Note: I take no responsiblity for any content listed here. **Please use at your 
   * [White Lead Pipe Collection](https://white.leadpipecollection.net/sims1.php)
   * [8 Deadly Sims Archive](https://simfileshare.net/folder/264361/): Archived of 8 Deadly Sims. has various objects, such as Skateboard, new stores, waterpipes, and other things!
   * [Cheap Frills (archived site)](https://web.archive.org/web/20050124092738/http://www.cheapfrills.org/): Can also be found on SimFile share [here](https://simfileshare.net/folder/144514/). Has gym objects, execersie tiles, trampolines, and more!
+  *  [SimsPlus (hosted by SimsFreak)](https://simfreaks.com/simsplus/index.php)
 </details>
 
 ## Objects
